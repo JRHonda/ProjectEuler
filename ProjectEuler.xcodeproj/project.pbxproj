@@ -13,6 +13,7 @@
 		0CD87DAD211A33E000B68724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CD87DAC211A33E000B68724 /* Assets.xcassets */; };
 		0CD87DB0211A33E000B68724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CD87DAE211A33E000B68724 /* LaunchScreen.storyboard */; };
 		0CD87DBB211A33E000B68724 /* ProjectEulerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD87DBA211A33E000B68724 /* ProjectEulerTests.swift */; };
+		0CD87DC8211A352500B68724 /* ProjectEuler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD87DC7211A352500B68724 /* ProjectEuler1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0CD87DB6211A33E000B68724 /* ProjectEulerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectEulerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CD87DBA211A33E000B68724 /* ProjectEulerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectEulerTests.swift; sourceTree = "<group>"; };
 		0CD87DBC211A33E000B68724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CD87DC7211A352500B68724 /* ProjectEuler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProjectEuler1.swift; path = "../../../../HackerRank/Project Euler/ProjectEuler1.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				0CD87DA9211A33DF00B68724 /* Main.storyboard */,
 				0CD87DAC211A33E000B68724 /* Assets.xcassets */,
 				0CD87DAE211A33E000B68724 /* LaunchScreen.storyboard */,
+				0CD87DC7211A352500B68724 /* ProjectEuler1.swift */,
 				0CD87DB1211A33E000B68724 /* Info.plist */,
 			);
 			path = ProjectEuler;
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CD87DC8211A352500B68724 /* ProjectEuler1.swift in Sources */,
 				0CD87DA8211A33DF00B68724 /* ViewController.swift in Sources */,
 				0CD87DA6211A33DF00B68724 /* AppDelegate.swift in Sources */,
 			);
